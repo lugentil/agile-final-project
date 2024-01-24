@@ -1,15 +1,6 @@
 ---
-name: Template for issues
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: User Story
-about: Template to create user stories
+about: Template for issues
 title: ''
 labels: ''
 assignees: ''
